@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Action</string>
+    <string name="text">textView</string>
+    <string name="button">button</string>
+    <string name="edit">EditText</string>
+    <string name="about_toast">x</string>
+    <string name="bText">myButton</string>
+</resources>
